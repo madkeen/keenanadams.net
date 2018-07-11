@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseurl                 = "https://keenanadams.net/"               # Your domain name. Must end with "/"
+=======
+baseurl                 = "https://keenanadams.me/"               # Your domain name. Must end with "/"
+>>>>>>> a2763f566cea5868193057e9b73341bc32c707b0
 canonifyURLs            = true
 languageCode            = "en-us"
 title                   = "Keenan Adams"
@@ -20,7 +24,7 @@ pygmentsCodefences      = true
 # Metadata
     description         = "I'm a user experience designer and developer with a keen interest in designing technology for social good."            # Max 160 characters show in search results
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+    primaryImage        = "/tn.png"        a             # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
     link = "/about"
